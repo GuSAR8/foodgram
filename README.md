@@ -99,8 +99,5 @@ docker-compose exec backend python manage.py load_tags
 
 Стек технологий: Python 3, Django, Django Rest Framework, Docker, PostgreSQL, nginx, gunicorn, Djoser.
 
-
-Информация для ревьюера:
-URL: https://foodgram2023.servebeer.com/
-Login: Max
-Password: MKolodnikoff
+Автор
+Акопян Сергей 2023
